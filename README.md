@@ -1,9 +1,9 @@
-### Hi there, I'm Everton Pila Silva 👋
+### <div align="center"> Hi there, I'm Everton Pila Silva 👋 <div>
  ##
 - 🔭 I’m currently working on Database administrator...
-- 🌱 I’m currently learning about Python, Java, NoSQL, ...
+- 🌱 I’m currently learning about Python, Java, NoSQL...
  ##
-- <div align="center">
+ <div align="center">
   <a href="https://github.com/Everton-Pila-Silva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Everton-Pila-Silva&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everton-Pila-Silva&layout=compact&langs_count=7&theme=midnight-purple"/>
