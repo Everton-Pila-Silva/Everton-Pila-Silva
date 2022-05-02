@@ -1,8 +1,14 @@
-### <div align="center"> Hi there, I'm Everton Pila Silva 👋 <div>
- ##
-- 🔭 I’m currently working on Database administrator...
-- 🌱 I’m currently learning about Python, Java, NoSQL...
- ##
+Hi 👋 My name is Everton Pila Silva
+===================================
+
+Database Administrator & Full Stack Developer
+---------------------------------------------
+
+* 🌍  I'm based in Varginha MG - BRAZIL
+* ✉️  You can contact me at [evertonpilasilva@gmail.com](mailto:evertonpilasilva@gmail.com)
+* 🧠  I'm learning Django and Spring Boot frameworks
+
+
  <div align="center">
   <a href="https://github.com/Everton-Pila-Silva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Everton-Pila-Silva&show_icons=true&theme=midnight-purple&include_all_commits=false&count_private=true"/>
